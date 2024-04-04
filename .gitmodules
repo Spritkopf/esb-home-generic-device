@@ -1,0 +1,6 @@
+[submodule "lib/esb-home-fw"]
+	path = lib/esb-home-fw
+	url = git@github.com:Spritkopf/esb-home-fw
+[submodule "lib/nrf5_sdk"]
+	path = lib/nrf5_sdk
+	url = git@github.com:Spritkopf/nrf5_sdk
