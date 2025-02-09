@@ -19,7 +19,6 @@ target_sources(generic-device PUBLIC
     timebase.c
     ${NRF_SDK_HOME}/modules/nrfx/mdk/gcc_startup_nrf52840.S
     ${NRF_SDK_HOME}/modules/nrfx/mdk/system_nrf52.c
-    ${NRF_SDK_HOME}/modules/nrfx/mdk/system_nrf52.c
     ${NRF_SDK_HOME}/modules/nrfx/drivers/src/nrfx_gpiote.c
     ${NRF_SDK_HOME}/modules/nrfx/drivers/src/nrfx_timer.c
     ${NRF_SDK_HOME}/modules/nrfx/drivers/src/nrfx_systick.c
